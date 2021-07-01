@@ -19,15 +19,24 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3 wit
 ---
 ## Build with:
 - HTML5
-- CSS3  
-  - Tailwind CSS
+- CSS3(Tailwind CSS)
 - Javascript
 ---
 ## Design sketches for the Portoflio
-**This is a design sketch for Desktop screen
+This is a design sketch for Desktop screen
+
+![desktop_design](https://github.com/crucio-009/Portfolio/blob/main/designs/Desktop_Homepage.png "Desktop_design")
+
+This is a design sketch for Desktop screen
+
+![mobile_design](https://github.com/crucio-009/Portfolio/blob/main/designs/Mobile_Homepage.png "Mobile_design")
 
 ---
 ## Portfolio Demo
+![desktop_gif](https://github.com/crucio-009/Portfolio/blob/main/Screenshots/desktopgif/desktop.gif "Desktop_gif")
+![mobile_gif](https://github.com/crucio-009/Portfolio/blob/main/Screenshots/mobilegif/mobile.gif "Mobile_gif")
 
 ---
 ## Validations
+![w3c_validation](https://github.com/crucio-009/Portfolio/blob/main/validations/w3c-validation.PNG "w3c_validation")
+![wave_accesibiltiy_tool](https://github.com/crucio-009/Portfolio/blob/main/validations/wave%20validation%20(1).png "wave_accesibiltiy_tool")
